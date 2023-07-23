@@ -6,4 +6,5 @@
 5-listfilesdigitonly - display current directory contents.
 6-firstdirectory - Create a script that creates a directory named 
 7-movethatfile - Move the file betty from /tmp/ to /tmp/my_first_directory.
+8-Delete the file betty.
 
